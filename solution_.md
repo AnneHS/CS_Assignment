@@ -7,5 +7,5 @@
 
 ## istherecorrelation.csv  
 <p align="center">
-  <img src="https://github.com/AnneHS/CS_Assignment/blob/master/CS_Assignment.png" height="5%" width="100%"/> 
+  <img src="https://github.com/AnneHS/CS_Assignment/blob/master/CS_Assignment.png" height="5%" width="90%"/> 
 </p>
